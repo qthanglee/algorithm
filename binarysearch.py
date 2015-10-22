@@ -1,4 +1,7 @@
-#running time is log n
+#Thang Le
+#Running time O (log n)
+#will need a logic to check s1 and s2 are characters only. 
+#this only work on assumption of the list is in accending order
 
 count = 0
 
