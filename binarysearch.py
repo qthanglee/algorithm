@@ -1,4 +1,4 @@
-#running time is logn
+#running time is log n
 
 count = 0
 
