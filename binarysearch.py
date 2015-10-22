@@ -1,4 +1,4 @@
-
+#running time is logn
 
 count = 0
 
